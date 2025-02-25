@@ -1,4 +1,4 @@
-// File: G:\Teenvisor-bolt\project-bolt-sb1-gkg8sxiu\project\src\app\about\page.tsx
+// File: D:\Teenvisor\Teenvisor.in-bolt\src\app\about\page.tsx
 import * as entry from '../../../../src/app/about/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
